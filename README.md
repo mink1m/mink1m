@@ -13,13 +13,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+yo
 -->
 
 # Hey, I'm Minha, a freshman studying computer science at UC Irvine! 
 
 #### I'm a beginner at programming but I am always willing to learn and expand my knowledge!
 </br>
-Currently learning:
+
+**Currently learning:**
+
 - Python
 - VSCode
 
