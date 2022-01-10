@@ -18,8 +18,7 @@ yo
 
 # Hey, I'm Minha, a freshman studying computer science at UC Irvine! 
 
-#### I'm a beginner at programming but I am always willing to learn and expand my knowledge!
-</br>
+### I'm new to programming but I'm always willing to learn more and expand my skills!
 
 **Currently learning:**
 
