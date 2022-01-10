@@ -24,6 +24,12 @@ yo
 - Python
 - VSCode
 
+**Winter '22 Coursework:**
+- ICS 32
+- ICS 6B
+- Math 2B
+- Writing 39C
+
 **Contact me:**
 - LinkedIn: https://www.linkedin.com/in/minhakimm/
 - Personal email: minhakimjst@gmail.com
