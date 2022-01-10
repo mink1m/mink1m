@@ -21,11 +21,11 @@ yo
 ### I'm new to programming but I'm always willing to learn more and expand my skills!
 
 **Currently learning:**
-
 - Python
 - VSCode
 
-**Contacts:**
+**Contact me:**
 - LinkedIn: https://www.linkedin.com/in/minhakimm/
 - Personal email: minhakimjst@gmail.com
 - Resume: *in progress*
+- Discord: re#6156
