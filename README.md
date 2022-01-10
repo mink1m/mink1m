@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#Hey, I'm Minha, a firstyear computer science student @ UC Irvine!
+
