@@ -15,5 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#Hey, I'm Minha, a firstyear computer science student @ UC Irvine!
+# Hey, I'm Minha, a freshman studying computer science at UC Irvine! 
 
+#### I'm a beginner at programming but I am always willing to learn and expand my knowledge!
+</br>
+Currently learning:
+- Python
+- VSCode
+
+**Contacts:**
+- LinkedIn: https://www.linkedin.com/in/minhakimm/
+- Personal email: minhakimjst@gmail.com
+- Resume: *in progress*
