@@ -22,7 +22,7 @@ yo
 
 **Currently learning:**
 - Python
-- VSCode
+- Git
 
 **Winter '22 Coursework:**
 - ICS 32
