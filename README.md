@@ -34,4 +34,3 @@ yo
 - LinkedIn: https://www.linkedin.com/in/minhakimm/
 - Personal email: minhakimjst@gmail.com
 - Resume: *in progress*
-- Discord: re#6156
