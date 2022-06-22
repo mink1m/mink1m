@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **mink1m/mink1m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,22 +11,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-yo
 -->
 
-# Hey, I'm Minha, a freshman studying computer science at UC Irvine! 
+# Hi, I'm Minha, a sophomore studying computer science at UC Irvine! 
 
-### I'm new to programming but I'm always willing to learn more and expand my skills!
-
-**Currently learning:**
+**Languages/Skills:**
 - Python
 - Git
-
-**Winter '22 Coursework:**
-- ICS 32
-- ICS 6B
-- Math 2B
-- Writing 39C
 
 **Contact me:**
 - LinkedIn: https://www.linkedin.com/in/minhakimm/
