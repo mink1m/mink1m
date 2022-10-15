@@ -15,11 +15,6 @@ Here are some ideas to get you started:
 
 # Hi, I'm Minha, a sophomore studying computer science at UC Irvine! 
 
-**Languages/Skills:**
-- Python
-- Git
-
 **Contact me:**
 - LinkedIn: https://www.linkedin.com/in/minhakimm/
 - Personal email: minhakimjst@gmail.com
-- Resume: *in progress*
