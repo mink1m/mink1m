@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm Minha, a sophomore studying computer science at UC Irvine! 
 
-### Website: [minhakim.dev](https://minhakim.dev/index.html)
+### [minhakim.dev](https://minhakim.dev/index.html)
 
 **Contact me:**
 - [LinkedIn](https://www.linkedin.com/in/minhakimm/)
