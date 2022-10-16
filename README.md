@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 # Hi, I'm Minha, a sophomore studying computer science at UC Irvine! 
 
 <h3> <a href = "https://minhakim.dev/index.html" target = "_blank"> minhakim.dev </a> </h3>
-
-### [minhakim.dev](https://minhakim.dev/index.html){:target="_blank"}
