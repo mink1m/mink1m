@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 <h3> <a href = "https://minhakim.dev/index.html" target = "_blank">minhakim.dev </a> </h3>
 
-### [minhakim.dev](https://minhakim.dev/index.html){target="_blank"}
+### [minhakim.dev](https://minhakim.dev/index.html){:target="_blank"}
